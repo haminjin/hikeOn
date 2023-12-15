@@ -1,0 +1,17 @@
+:root {
+    --brand-green: #3E5D15;
+    --ui-border: #E5E5E5;   
+}
+
+
+/* shades of grey */
+
+.darkgrey {
+    color: #000000;
+    opacity: 80%;
+}
+
+.lightgrey {
+    color: #000000;
+    opacity: 50%;
+}

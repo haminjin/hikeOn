@@ -1,0 +1,30 @@
+/* Title */
+.title {
+    font-size: 4rem; /* 96px */
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.1rem;
+}
+
+.heading {
+    font-size: 2rem; /* 32px */
+    line-height: 1.2;
+    margin-bottom: 1rem;
+}
+
+/* Body */
+.body {
+    font-size: 1rem; /* 16px */
+    line-height: 1.5;
+}
+
+/* Meta */
+.meta {
+    font-size: 0.8125rem; /* 13px */
+    line-height: 1.5;
+}
+
+.bold {
+    font-weight: 600;
+}
